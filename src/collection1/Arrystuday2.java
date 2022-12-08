@@ -11,6 +11,7 @@ public class Arrystuday2 {
 		rr.add('a');
 		rr.add('b');
 		rr.add('c');
+		
 		rr.add('d');
 		rr.add('e');
 		rr.add('f');
